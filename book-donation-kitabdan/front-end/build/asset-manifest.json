@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.1e01e781.js",
+    "static/js/787.618d40a4.chunk.js": "/static/js/787.618d40a4.chunk.js",
+    "static/media/corousel3.png": "/static/media/corousel3.9529197b0faef7aa7e4f.png",
+    "static/media/vision-background.png": "/static/media/vision-background.977d59bc5892448fd67d.png",
+    "static/media/about-img2.jpg": "/static/media/about-img2.10fc419c328f7de31c42.jpg",
+    "static/media/vision-img.png": "/static/media/vision-img.6be608ca1050b013e3a5.png",
+    "static/media/contactus-img.png": "/static/media/contactus-img.35279f17c1072eef39e3.png",
+    "static/media/signup-img.png": "/static/media/signup-img.ae4f91eedb23c4a2f59f.png",
+    "static/media/booksOthers.jpg": "/static/media/booksOthers.4d14aaef15cb31e9d421.jpg",
+    "static/media/login-image.png": "/static/media/login-image.492ef14bcb5b3306bb21.png",
+    "static/media/about-us.png": "/static/media/about-us.136fbc663ad1bd4db3bc.png",
+    "static/media/booksCompetition.jpg": "/static/media/booksCompetition.c1b6b2fc72d927f839fd.jpg",
+    "static/media/booksUGPG.jpg": "/static/media/booksUGPG.b72a6abd1553c41a8b4f.jpg",
+    "static/media/book1to12.jpg": "/static/media/book1to12.a09eb1a6fc8bffdf8a98.jpg",
+    "static/media/happyUsr-img.png": "/static/media/happyUsr-img.99da103cfec8289ca2d6.png",
+    "static/media/about-img3.jpg": "/static/media/about-img3.e64b573474a79117f368.jpg",
+    "static/media/pickup.jpg": "/static/media/pickup.457eb84e7c8260bae270.jpg",
+    "static/media/about-img1.jpg": "/static/media/about-img1.7d76298a737bc5ac6d3d.jpg",
+    "static/media/sorting.jpg": "/static/media/sorting.c8b9c8b0f425d3687199.jpg",
+    "static/media/corousel2.jpg": "/static/media/corousel2.733d13dfdb197e2595f2.jpg",
+    "static/media/giving.jpg": "/static/media/giving.312b8e682d5ebe4cc64a.jpg",
+    "static/media/signUpBg.jpg": "/static/media/signUpBg.3675851644f58c94f6da.jpg",
+    "static/media/options-img2.jpg": "/static/media/options-img2.88de0c86104e74cee56a.jpg",
+    "static/media/corousel4.jpg": "/static/media/corousel4.c0d2013ccce8e7be3777.jpg",
+    "static/media/login-main.jpg": "/static/media/login-main.ae04cbd232bcb8a3bd40.jpg",
+    "static/media/corousel1.jpg": "/static/media/corousel1.a8c7abbe58294e0f1b22.jpg",
+    "static/media/options-img1.jpg": "/static/media/options-img1.c01c39faa48747d51f2b.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.1e01e781.js.map": "/static/js/main.1e01e781.js.map",
+    "787.618d40a4.chunk.js.map": "/static/js/787.618d40a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1e01e781.js"
+  ]
+}
