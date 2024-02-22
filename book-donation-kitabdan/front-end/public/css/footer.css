@@ -1,0 +1,52 @@
+@font-face{
+    font-family: Roboto;
+    src: url(RobotoSlab-Regular.ttf);
+   }
+   
+   
+   #footer{background:  #1e1919c9;
+       color: #F5FAFF;
+       font-size:1.2vw !important;
+       padding-top: 5%;
+       letter-spacing: 0.7px;
+       font-family: Roboto;
+      
+   }
+   #footer li{
+    text-decoration: blink;
+    list-style-type: none;
+    color: blanchedalmond;
+   }
+   #footer li a{ 
+    text-decoration: blink;
+    list-style-type: none;
+    color: white;
+   }
+   #footer li a:hover{ 
+   color: aqua;
+   background-color: rgb(132, 124, 115);
+   border-radius: 5px;
+   }
+   footer .copyright-area{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(85, 77, 87, 0.863);
+    text-decoration: none;
+    border-radius: 30%;
+   }
+   footer .copyright-area a{
+   
+    text-decoration: none;
+    color: #F5FAFF;
+   }
+   footer .copyright-area a:hover{
+   
+        color: yellow;
+   }
+   
+   @media(max-width:1024px){
+    #footer{
+     font-size:2.5vw !important;
+    }
+   }
