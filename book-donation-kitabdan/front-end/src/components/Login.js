@@ -59,7 +59,7 @@ console.log("Clicked Login Button")
               </div>
 
               <div className="form-outline mb-4">
-                <input type="password" id="form1Example23" className="form-control form-control-lg" value={password} onChange={(e) => setPassword(e.target.value)} />
+                <input type="password" id="form1Example23" className="form-control form-control-lg" autoComplete="current-password" value={password} onChange={(e) => setPassword(e.target.value)} />
                 <label className="form-label" htmlFor="form1Example23">Password</label>
               </div>
 
