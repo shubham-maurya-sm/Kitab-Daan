@@ -117,13 +117,13 @@ export default function Footer() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-sm-6 col-lg-3">
-                                <div className="footer-item"></div>
-                                // <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d665.1562265458058!2d81.85261380666176!3d25.459370005300254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399acabd766de9d7%3A0x2089c68b5ea3e296!2sCentre%20of%20Computer%20Education!5e0!3m2!1sen!2sin!4v1696471568892!5m2!1sen!2sin" allowfullscreen="" aria-hidden="false" tabindex="0" title="Google Maps Location">
+                        //     <div className="col-sm-6 col-lg-3">
+                        //         <div className="footer-item"></div>
+                        //         // <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d665.1562265458058!2d81.85261380666176!3d25.459370005300254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399acabd766de9d7%3A0x2089c68b5ea3e296!2sCentre%20of%20Computer%20Education!5e0!3m2!1sen!2sin!4v1696471568892!5m2!1sen!2sin" allowfullscreen="" aria-hidden="false" tabindex="0" title="Google Maps Location">
                                    
-                                // </iframe>
-                            </div>
-                        </div>
+                        //         // </iframe>
+                        //     </div>
+                        // </div>
                     </div>
                     <div className="copyright-area" >
                         <p>
