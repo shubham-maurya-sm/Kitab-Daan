@@ -1,7 +1,5 @@
 
-html{
-    font-family: 'Roboto' sans-serif;
-}
+
 *{
     overflow: auto;
     width: 100%;
@@ -19,12 +17,6 @@ body{
 
 
 
-
-@font-face{
-    font-family: Roboto;
-    src: url(fonts/RobotoSlab-Regular.ttf);
-   }
-   
    
    #footer{background: #144673;
        color: #F5FAFF;
